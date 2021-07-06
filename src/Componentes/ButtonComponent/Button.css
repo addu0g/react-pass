@@ -1,0 +1,19 @@
+.button-normal{
+    padding:10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: navy;
+    border-radius: 10px;
+    border-style:solid;
+    color:white;
+    border-width: 2px;
+    border-color:navy;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.button-normal:hover{
+    border-width: 2px;
+    border-style: solid;
+    box-shadow:  0 0 6px rgba(35, 173, 278, 1);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  }

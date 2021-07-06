@@ -1,0 +1,22 @@
+.result-container{
+    text-align: center;
+    margin-left:40%;
+  }
+  
+  .hide-result{
+    display: none;
+  }
+  
+  .shine-result{
+    margin-top:10px;
+    display:block;
+    padding: 20px;
+    border-color: navy;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    width:250px;
+    overflow-wrap: break-word;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  }
+  
