@@ -104,3 +104,15 @@
   font-size: smaller;
   
 }
+
+.highlight{
+  background-color: rgba(255,255,255,0.1);
+  transition-duration: 700ms;
+  color:rgba(252, 255, 212, 0.267);
+  padding-top:25px;
+}
+
+.highlight:hover{
+  background-color: rgba(0, 0, 0, 0.308);
+  transition-duration: 700ms;
+}

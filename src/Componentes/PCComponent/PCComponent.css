@@ -1,41 +1,8 @@
-.config-buttons{
-    display:block;  
-    text-align: left;
-    width:500px;
-    margin-left:32.5%;
-    margin-bottom:50px;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-    padding:25px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
-  }
+.container{
+  padding:0px 25px 10px 25px;
+}
 
-  input{
-      padding:5px;
-      margin:10px;
-      font-family:Verdana, Geneva, Tahoma, sans-serif;
-      font-size: large;
-      border-radius: 10px;
-  }
-
-  input:focus{
-    border-width: 2px;
-    border-style: solid;
-    box-shadow:  0 0 6px rgba(35, 173, 278, 1);
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-  }
-
-  #num{
-      margin-left:44px;
-  }
-
-  #char{
-    margin-left:31px;
-  }
-
-  #caps{
-    margin-left:20px;
-  }
+.footer{
+  position:fixed;
+  bottom:0px;
+}
